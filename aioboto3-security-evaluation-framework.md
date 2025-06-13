@@ -177,3 +177,11 @@ security_gates:
 2. **Urgent (1-7 days)**: High-risk findings, compliance violations
 3. **Standard (1-30 days)**: Medium-risk issues, improvements
 4. **Planned (Next release)**: Low-risk items, enhancements
+
+---
+
+## DISCLAIMER
+- For educational/reference purposes only
+- Not production-ready, use at your own risk
+- No warranty provided - test thoroughly before use
+- Author not liable for any damages or issues
